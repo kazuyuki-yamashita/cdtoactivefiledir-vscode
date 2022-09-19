@@ -3,7 +3,13 @@
 
 Change terminal path to active file path.
 
-<img src="https://github.com/kazuyuki-yamashita/cdtoactivefiledir-vscode/blob/main/images/feature.gif" width="900">
+## Command
+
+You can execute this extension in command palette with below command.
+
+- `Change Terminal Directory To Active File Path `
+
+![demo](https://github.com/kazuyuki-yamashita/cdtoactivefiledir-vscode/blob/main/images/feature.gif)
 
 ## Known Issues
 
@@ -25,5 +31,6 @@ Published to VS Code Extension Marketplace.
 Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
 
 * [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
+
 
 
