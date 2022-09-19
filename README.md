@@ -24,6 +24,10 @@ Initial release of cdtoactivefiledir-vscode
 
 Published to VS Code Extension Marketplace.
 
+### v0.0.3
+
+Fix README.md
+
 ---
 
 ## Following extension guidelines
