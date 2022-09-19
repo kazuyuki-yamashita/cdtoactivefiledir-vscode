@@ -3,16 +3,20 @@
 
 Change terminal path to active file path.
 
-<img src="images/feature.gif" width="900">
+<img src="https://github.com/kazuyuki-yamashita/cdtoactivefiledir-vscode/blob/main/images/feature.gif" width="900">
 
 ## Known Issues
 
 none
 
 ## Release Notes
-### 1.0.0
+### v0.0.1
 
 Initial release of cdtoactivefiledir-vscode
+
+### v0.0.2
+
+Published to VS Code Extension Marketplace.
 
 ---
 
