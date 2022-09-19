@@ -3,7 +3,7 @@
 
 Change terminal path to active file path.
 
-![feature X](images/feature.gif)
+<img src="images/feature.gif" width="900">
 
 ## Known Issues
 
@@ -21,4 +21,5 @@ Initial release of cdtoactivefiledir-vscode
 Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
 
 * [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
+
 
