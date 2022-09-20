@@ -28,6 +28,10 @@ Published to VS Code Extension Marketplace.
 
 Fix README.md
 
+### v0.0.4
+
+Focus on terminal after change path.
+
 ---
 
 ## Following extension guidelines

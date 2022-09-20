@@ -32,7 +32,7 @@ export function activate(context: vscode.ExtensionContext) {
 			const command = getCDCommand(foldPath);
 
 			vscode.window.terminals[0].sendText(command);
-			vscode.window.showInformationMessage(command);
+			vscode.commands.executeCommand('workbench.action.terminal.focus');
 		}
 	});
 
